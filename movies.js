@@ -102,7 +102,7 @@ firebase.auth().onAuthStateChanged(async function (user) {
 //         in as <name>" along with a link to "Sign out". Ensure that a document
 //         is set in the "users" collection for each user that signs in to 
 //         your application.
-// Not Done
+// Done
 
 // Step 3: Setting the TMDB movie ID as the document ID on your "watched" collection
 //         will no longer work. The document ID should now be a combination of the
